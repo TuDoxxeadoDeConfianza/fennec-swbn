@@ -1,0 +1,11 @@
+{
+  "versions": [
+    {
+      "version": "1.1.42",
+      "src": "https://raw.githubusercontent.com/TuDoxxeadoDeConfianza/fennec-swbn/main/fennec-chromeos.swbn",
+      "channels": [
+        "default"
+      ]
+    }
+  ]
+}
