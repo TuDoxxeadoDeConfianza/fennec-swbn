@@ -1,9 +1,8 @@
 # Fennec para ChromeOS
 
-Paquetes IWA firmados de Fennec.
+Paquetes IWA de Fennec firmados para ChromeOS.
 
-- Actualización estable: 1.1.42
-- Compilación de prueba: 1.1.43, publicada para probar la actualización automática.
-- Manifiesto: `updates.json`
-
-El paquete estable permanece en `fennec-chromeos.swbn`; la prueba 1.1.43 está en `releases/1.1.43/fennec-chromeos.swbn`.
+- Última versión: 1.1.44
+- Cambios: pantalla de inicio mejorada y corrección de animaciones repetidas de pestañas.
+- Manifiesto de actualizaciones: `updates.json`
+- Paquete: `releases/1.1.44/fennec-chromeos.swbn`
