@@ -2,7 +2,7 @@
 
 Paquetes IWA de Fennec firmados para ChromeOS.
 
-- Última versión: 1.1.44
-- Cambios: pantalla de inicio mejorada y corrección de animaciones repetidas de pestañas.
+- Última versión: 1.1.45
+- Cambios: solicitudes y gestión de permisos por sitio.
 - Manifiesto de actualizaciones: `updates.json`
-- Paquete: `releases/1.1.44/fennec-chromeos.swbn`
+- Paquete: `releases/1.1.45/fennec-chromeos.swbn`
