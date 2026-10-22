@@ -1,7 +1,7 @@
 # Fennec para ChromeOS
 
-- Última versión: 1.1.53
-- Cambios: añade consultas sugeridas y completadas que se pueden seleccionar desde el buscador.
+- Última versión: 1.1.54
+- Cambios: rediseña las sugerencias de búsqueda y elimina los completados genéricos.
 - Manifiesto de actualizaciones: `updates.json`
-- Paquete: `releases/1.1.53/fennec-chromeos.swbn`
+- Paquete: `releases/1.1.54/fennec-chromeos.swbn`
 
