@@ -1,6 +1,7 @@
 # Fennec para ChromeOS
 
-- Última versión: 1.1.49
-- Cambios: mantiene el icono PNG de instalación para una actualización más simple; conserva la marca SVG dentro de la página de inicio.
+- Última versión: 1.1.50
+- Cambios: reordena la página de inicio con buscador de sugerencias, widgets laterales y una ficha de Fennec.
 - Manifiesto de actualizaciones: `updates.json`
-- Paquete: `releases/1.1.49/fennec-chromeos.swbn`
+- Paquete: `releases/1.1.50/fennec-chromeos.swbn`
+
