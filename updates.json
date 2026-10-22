@@ -62,6 +62,13 @@
       "channels": [
         "default"
       ]
+    },
+    {
+      "version": "1.1.51",
+      "src": "https://raw.githubusercontent.com/TuDoxxeadoDeConfianza/fennec-swbn/main/releases/1.1.51/fennec-chromeos.swbn",
+      "channels": [
+        "default"
+      ]
     }
   ]
 }

@@ -1,7 +1,7 @@
 # Fennec para ChromeOS
 
-- Última versión: 1.1.50
-- Cambios: reordena la página de inicio con buscador de sugerencias, widgets laterales y una ficha de Fennec.
+- Última versión: 1.1.51
+- Cambios: quita el icono de la ficha de inicio y renueva el icono vectorial con animaciones sutiles.
 - Manifiesto de actualizaciones: `updates.json`
-- Paquete: `releases/1.1.50/fennec-chromeos.swbn`
+- Paquete: `releases/1.1.51/fennec-chromeos.swbn`
 
