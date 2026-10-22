@@ -1,8 +1,6 @@
 # Fennec para ChromeOS
 
-Paquetes IWA firmados para ChromeOS.
-
-- Última versión: 1.1.47
-- Cambios: los encabezados de grupo se ensanchan con el cursor y se encogen al salir.
+- Última versión: 1.1.48
+- Cambios: icono vectorial renovado, página de inicio personalizable y widgets de reloj, tiempo y noticias RSS.
 - Manifiesto de actualizaciones: `updates.json`
-- Paquete: `releases/1.1.47/fennec-chromeos.swbn`
+- Paquete: `releases/1.1.48/fennec-chromeos.swbn`
